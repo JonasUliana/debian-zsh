@@ -1,5 +1,5 @@
 export LANG="en_US.UTF-8"
-export ZSH=/home/jonas/.oh-my-zsh
+export ZSH=$HOME/.oh-my-zsh
 export TERM="xterm-256color"
 export PATH=~/.npm-global/bin:$PATH
 
